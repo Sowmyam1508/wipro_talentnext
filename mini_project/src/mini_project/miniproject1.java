@@ -52,7 +52,7 @@ public class miniproject1 {
 					}
 					int salary = basic[i] + hra[i] + da - it[i];
 					System.out.println("Emp No.\tEmpName\tDepartment\tDesignation\tSalary");
-					System.out.println(empId[i] + " \t" +name[i] +" \t"+department[i]+"\t\t"+designation+"\t"+salary);
+					System.out.println(empId[i] + " \t" +name[i] +" \t"+department[i]+"\t\t"+designation+"\t\t"+salary);
 					
 				}
 			}
